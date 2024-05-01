@@ -1,0 +1,16 @@
+.banner__item {
+  width: 100%;
+  height: 600px;
+  object-fit: contain;
+}
+
+.banner__swiper img {
+  width: 100%;
+  height: 700px;
+  object-fit: cover;
+}
+.banner__swiper video {
+  width: 100%;
+  height: 700px;
+  object-fit: cover;
+}
